@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Model, View, Controller, framework that gives structure and organization to your code, architecture
 
 
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Database with rows and columns, columns holds attributes of the data and rows are instances, non-relational database NOSQL (not only sql)
 
 
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Convert data between two incompatible languages, ORM - Active Record
 
 
 
@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Ruby package manager, code libraries
 
 
 
@@ -41,19 +41,19 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Column is a unique identifier, ensures unique rows
 
 
 
 ## Looking Ahead: Terms for Next Week
 Research and define the following terms to the best of your ability.
 
-1. RESTful routes:
+1. RESTful routes: Representative state transfer, predefined patterns of behavior via http requests
 
-2. JSON:
+2. JSON: JavaScript Object Notation, key:value pairs used in data transmission
 
-3. ERB:
+3. ERB: Embedded Ruby, Ruby templating that uses plain text and Ruby code
 
-4. Params:
+4. Params: A way to pass extra information to the controller
 
-5. API:
+5. API: Application programming interface, how computers talk to each other, website for a computer
